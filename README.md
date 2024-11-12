@@ -61,7 +61,6 @@ print("\nClassification Report:")
 print(classification_rep)
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/f9780b28-b6dd-4159-bc60-f57988c0bc8b)
 ![image](https://github.com/user-attachments/assets/840ce47e-a52e-4cbe-817f-34fe87981e60)
 
 
